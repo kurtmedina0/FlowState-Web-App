@@ -7,8 +7,8 @@ export default defineConfig({
     react({
       babel: {
         plugins: [['babel-plugin-react-compiler']],
-  base: '/FlowState-Web-App/'
       },
     }),
   ],
+  base: '/FlowState-Web-App/'  // Moved outside plugins array
 })
