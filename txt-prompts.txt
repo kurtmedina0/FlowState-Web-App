@@ -1,0 +1,2 @@
+REVAMPING WEBPAGE
+hello, this is the link of my webpage https://cruip.com/demos/open-pro/ (the blog webpage), i want you to extract all the information in this webpage and generate the revamped webpage based on the style, design, and theme of the code that i pasted. it should also be interactive and mobile responsive. also, in the pictures, please find pictures in the unsplash to replace the pictures in this page. please generate the full code now.

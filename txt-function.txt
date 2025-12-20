@@ -1,0 +1,27 @@
+Primary Function:
+AI-Powered Product Team Collaboration Platform
+Core Features:
+
+Team Collaboration - Real-time workspace for product teams to work together
+Project Management - Track milestones, workflows, and timelines
+Analytics & Reporting - Advanced insights and data visualization
+Workflow Automation - AI-driven task management and smart automation
+Integration Hub - Connect with 100+ tools and APIs
+
+Target Audience:
+
+Product teams
+Freelancers to enterprise organizations
+Remote/distributed teams
+Product managers and developers
+
+Key Value Propositions:
+
+"Build better products with your team"
+"Ship faster"
+"Content-first platform"
+"Simple and elegant interface to start collaborating with your team in minutes"
+
+In Simple Terms:
+It's essentially a SaaS platform similar to Notion, Asana, or Monday.com - a modern workspace tool that helps product teams collaborate, manage projects, automate workflows, and track progress all in one place.
+The website serves as a landing page/marketing site to showcase the platform's features and convert visitors into customers through the pricing plans (Freelancer, Small Team, Business, Enterprise).
