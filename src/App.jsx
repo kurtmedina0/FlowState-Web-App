@@ -31,12 +31,14 @@ function App() {
   }, [])
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/FlowState-Web-App">
       <Navbar 
         onSignInClick={() => setIsSignInOpen(true)}
         onRegisterClick={() => setIsRegisterOpen(true)}
         user={user}
       />
+      
+      {/* Remove any wrapper div - let HomePage handle its own styling */}
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<About />} /> 
