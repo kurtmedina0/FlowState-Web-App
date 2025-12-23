@@ -40,7 +40,7 @@ function SignInModal({ isOpen, onClose }) {
     const { data, error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
       options: {
-        redirectTo: window.location.origin
+        redirectTo: `${window.location.origin}/FlowState-Web-App/`
       }
     })
     if (error) {
@@ -53,7 +53,7 @@ function SignInModal({ isOpen, onClose }) {
     const { data, error } = await supabase.auth.signInWithOAuth({
       provider: 'github',
       options: {
-        redirectTo: window.location.origin
+        redirectTo: `${window.location.origin}/FlowState-Web-App/`
       }
     })
     if (error) {
@@ -61,7 +61,6 @@ function SignInModal({ isOpen, onClose }) {
       console.error('Error:', error)
     }
   }
-
   return (
     <div 
       className="fixed inset-0 z-50 flex items-center justify-center p-4 animate-in fade-in duration-300"
